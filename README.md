@@ -23,7 +23,7 @@ In this dynamic realm, my voyage delves into the depths of analytics and predict
 
 ![R](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/ee4524d3-19a3-412e-bf91-e87861bac316)
 
-**Natural Language Processing: Consumer_Complaints**
+**Natural Language Processing: Consumer Complaints**
 
 Embarked on an innovative project to develop a cutting-edge Natural Language Processing (NLP) model. The primary objective of this model is to read and comprehend natural language in customer complaints, enabling us to automatically route each complaint to the right department or team for efficient and tailored resolution.
 
