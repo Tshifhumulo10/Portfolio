@@ -8,7 +8,6 @@ Technical Skills: Python, SQL, AWS, PowerBi, Tableau, Microsoft Excel (Micros an
 CETA Accredited - NQF Level 5 , Data Science | Explore Academy (December 2023)                                                                                                                                                                                                                
 Bachelor of Science, Biochemistry and Microbiology | The University of Witwatersrand (March 2017)
 
-
 # **Projects**
 
 **IBM Attrition Analysis and Predictions**
