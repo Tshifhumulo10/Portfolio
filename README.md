@@ -1,4 +1,4 @@
-# **Data Scientist**
+# **Data Analyst| Data Scientist **
 
 Technical Skills: Python, SQL, AWS, PowerBi, Tableau, Microsoft Excel (Micros and Pivot tables)
 
