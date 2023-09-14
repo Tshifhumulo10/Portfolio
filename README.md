@@ -1,15 +1,14 @@
 # **Data Scientist**
----
 
 Technical Skills: Python, SQL, AWS, PowerBi
 
 # **Education**
----
 
-CETA Accredited - NQF Level 5 , Data Science | Explore Academy (December 2023)
-BSc., Physics | The University of Witwatersrand (March 2017)
 
----
+CETA Accredited - NQF Level 5 , Data Science | Explore Academy (December 2023)                                                                                                                                                                                                                
+BSc.,  | The University of Witwatersrand (March 2017)
+
+
 # **Projects**
 
 **IBM Attrition Analysis and Predictions**
