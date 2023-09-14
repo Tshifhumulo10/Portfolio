@@ -19,6 +19,6 @@ Bachelor of Science, Biochemistry and Microbiology | The University of Witwaters
 
 **Martketing Budget Analysis and Sales Revenue Prediction**
 
-In this dynamic realm, my voyage delves into the depths of analytics and predictive prowess offering a glimpse into the future of marketing effectiveness.. Analysed how different marketing budget affect the sales revenue and also developed a predictive model capable of predicting  the sales revenue based on the marketing budget. 
+In this dynamic realm, my voyage delves into the depths of analytics and predictive prowess offering a glimpse into  marketing effectiveness. Analysed how different marketing budget affect the sales revenue and also developed a predictive model capable of predicting  the sales revenue based on the marketing budget. 
 
 ![R](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/ee4524d3-19a3-412e-bf91-e87861bac316)
