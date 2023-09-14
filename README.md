@@ -15,4 +15,4 @@ BSc.,  | The University of Witwatersrand (March 2017)
 
  Leveraging the rich and comprehensive IBM data, I embarked on a transformative journey of insight discovery and prediction. My outcome is twofold: first, analyzed the data and unveil underlying factors that contribute to attrition within organizations, and second, developed a powerful predictive model capable of forecasting attrition patterns with 90% accuracy. 
 
-https://user-images.githubusercontent.com/115041717/257056527-a9793e35-5b5e-4c37-b7bb-31a056edbcfc.jpg
+![257056527-a9793e35-5b5e-4c37-b7bb-31a056edbcfc](https://github.com/Tshifhumulo10/IBM-Employee-Attrition/assets/115041717/05f9da09-6c80-4684-a925-c677ca4052ff)
