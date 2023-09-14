@@ -28,3 +28,4 @@ In this dynamic realm, my voyage delves into the depths of analytics and predict
 Embarked on an innovative project to develop a cutting-edge Natural Language Processing (NLP) model. The primary objective of this model is to read and comprehend natural language in customer complaints, enabling us to automatically route each complaint to the right department or team for efficient and tailored resolution.
 
  ![customer-complaints](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP/assets/115041717/20d512bd-a80c-4180-9770-bb16da444aa9)
+＜img src="![customer-complaints](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP/assets/115041717/20d512bd-a80c-4180-9770-bb16da444aa9" width="500" height="300"＞
