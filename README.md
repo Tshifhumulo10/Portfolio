@@ -22,10 +22,9 @@ Bachelor of Science, Biochemistry and Microbiology | The University of Witwaters
 In this dynamic realm, my voyage delves into the depths of analytics and predictive prowess offering a glimpse into  marketing effectiveness. Analysed how different marketing budget affect the sales revenue and also developed a predictive model capable of predicting  the sales revenue based on the marketing budget. 
 
 ![R](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction/assets/115041717/ee4524d3-19a3-412e-bf91-e87861bac316)
-![duotupg7](https://github.com/ShawhinT/example-portfolio/assets/115041717/9ee96763-8187-41e0-b431-0e5cdc6f0871)
 
 **Natural Language Processing: Consumer Complaints**
 
 Embarked on an innovative project to develop a cutting-edge Natural Language Processing (NLP) model. The primary objective of this model is to read and comprehend natural language in customer complaints, enabling us to automatically route each complaint to the right department or team for efficient and tailored resolution.
 
- ![customer-complaints](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP/assets/115041717/20d512bd-a80c-4180-9770-bb16da444aa9)
+![257072734-0b44480f-ee3e-4844-a4fe-34cfa4891423](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP/assets/115041717/5b37c3b8-e1a4-48d5-b397-e51e6bb3beac)
