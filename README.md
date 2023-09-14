@@ -3,6 +3,11 @@
 Technical Skills: Python, SQL, AWS, PowerBi
 
 # **Education**
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+CETA Accredited - NQF Level 5 , Data Science | Explore Academy (December 2023)
+BSc., Physics | The University of Witwatersrand (March 2017)
+---
+# **Projects**
+
+**IBM Attrition Analysis and Predictions**
+
+ Leveraging the rich and comprehensive IBM data, I embarked on a transformative journey of insight discovery and prediction. My outcome is twofold: first, analyzed the data and unveil underlying factors that contribute to attrition within organizations, and second, developed a powerful predictive model capable of forecasting attrition patterns with 90%ccuracy. 
