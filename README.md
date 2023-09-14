@@ -11,6 +11,7 @@ Bachelor of Science, Biochemistry and Microbiology | The University of Witwaters
 # **Projects**
 
 **IBM Attrition Analysis and Predictions**
+[https://github.com/Tshifhumulo10/IBM-Employee-Attrition](url)
 
  Leveraging the rich and comprehensive IBM data, I embarked on a transformative journey of insight discovery and prediction. My outcome is twofold: first, analyzed the data and unveil underlying factors that contribute to attrition within organizations, and second, developed a powerful predictive model capable of forecasting attrition patterns with 90% accuracy. 
 
