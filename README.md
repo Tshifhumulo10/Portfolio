@@ -7,7 +7,7 @@
 
 **Website Traffic analysis and forecast**
 
-[Website](https://github.com/Tshifhumulo10/IBM-Employee-Attrition](https://github.com/Tshifhumulo10/Website-Traffic-analysis-and-Forecast)
+[Website](https://github.com/Tshifhumulo10/Website-Traffic-analysis-and-Forecast)
 
 The objective of this project is to  gain insights into the traffic patterns and user behavior on an academic teaching notes website over a six-year period, from September 14, 2014, to August 19, 2020. It aims to explore trends, patterns, and relationships within the dataset to provide valuable insights into user engagement and traffic fluctuations. This project also aims to develop a model that forecast the website traffic. 
 
