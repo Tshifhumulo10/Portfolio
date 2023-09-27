@@ -7,7 +7,7 @@
 
 **Website Traffic analysis and forecast**
 
-[Website](https://github.com/Tshifhumulo10/Website-Traffic-analysis-and-Forecast)
+[Project link](https://github.com/Tshifhumulo10/Website-Traffic-analysis-and-Forecast)
 
 The objective of this project is to  gain insights into the traffic patterns and user behavior on an academic teaching notes website over a six-year period, from September 14, 2014, to August 19, 2020. It aims to explore trends, patterns, and relationships within the dataset to provide valuable insights into user engagement and traffic fluctuations. This project also aims to develop a model that forecast the website traffic. 
 
@@ -17,7 +17,7 @@ The objective of this project is to  gain insights into the traffic patterns and
 
 **IBM Attrition Analysis and Predictions**
 
-[Website](https://github.com/Tshifhumulo10/IBM-Employee-Attrition)
+[Project link](https://github.com/Tshifhumulo10/IBM-Employee-Attrition)
 
  Leveraging the rich and comprehensive IBM data, I embarked on a transformative journey of insight discovery and prediction. My outcome is twofold: first, analyzed the data and unveil underlying factors that contribute to attrition within organizations, and second, developed a powerful predictive model capable of forecasting attrition patterns with 90% accuracy. 
 
@@ -25,7 +25,7 @@ The objective of this project is to  gain insights into the traffic patterns and
 
 **Martketing Budget Analysis and Sales Revenue Prediction**
 
-[Website](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction)
+[Project link](https://github.com/Tshifhumulo10/Martketing-Analysis-and-Revenue-Prediction)
 
 In this dynamic realm, my voyage delves into the depths of analytics and predictive prowess offering a glimpse into  marketing effectiveness. Analysed how different marketing budget affect the sales revenue and also developed a predictive model capable of predicting  the sales revenue based on the marketing budget. 
 
@@ -33,7 +33,7 @@ In this dynamic realm, my voyage delves into the depths of analytics and predict
 
 **Natural Language Processing: Consumer Complaints**
 
-[website](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP)
+[Project link](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP)
 
 Embarked on an innovative project to develop a cutting-edge Natural Language Processing (NLP) model. The primary objective of this model is to read and comprehend natural language in customer complaints, enabling us to automatically route each complaint to the right department or team for efficient and tailored resolution.
 
@@ -41,7 +41,7 @@ Embarked on an innovative project to develop a cutting-edge Natural Language Pro
 
 
 <p align='center'> 
-  visitor Count <br>
+  Count <br>
 <img src="https://profile-counter.glitch.me/Tshifhumulo10/count.svg" />
 </p>
 
