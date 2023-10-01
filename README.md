@@ -39,12 +39,5 @@ Embarked on an innovative project to develop a cutting-edge Natural Language Pro
 
 ![257072734-0b44480f-ee3e-4844-a4fe-34cfa4891423](https://github.com/Tshifhumulo10/Consumer_Complaints_NLP/assets/115041717/5b37c3b8-e1a4-48d5-b397-e51e6bb3beac)
 
---->
-
-<p align='center'> 
-  Count <br>
-<img src="https://profile-counter.glitch.me/Tshifhumulo10/count.svg" />
-</p>
-
 
 
